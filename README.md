@@ -9,7 +9,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nithya-Alfonisa&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithyaalfonisa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/nithya-alfonisa-t-683753272/)
 [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nithyaalfonisa.t)
 [![Email](https://img.shields.io/badge/Email-nithyaalfonisa.t%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithyaalfonisa.t@gmail.com)
 
